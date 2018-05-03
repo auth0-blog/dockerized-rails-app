@@ -1,0 +1,1 @@
+FROM starefossen/ruby-node:2-8-stretch
